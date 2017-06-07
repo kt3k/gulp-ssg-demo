@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "ecstatic": "^2.1.0",
+    "ecstatic": "^2.2.1",
     "event-stream": "^3.3.0",
     "gulp": "^3.8.11",
     "gulp-front-matter": "^1.2.2",
